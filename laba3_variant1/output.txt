@@ -1,0 +1,4 @@
+2
+0 1 1 1 
+CDNF: (bit[0]&&!bit[1])||(!bit[0]&&bit[1])||(bit[0]&&bit[1])
+CCNF: (bit[0]||bit[1])
